@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "hex-color-to-color-name": "^1.0.2",
+    "jquery": "^3.6.0"
+  }
+}

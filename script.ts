@@ -1,4 +1,3 @@
-
 function generarColor(){
 	var simbolos, color;
 	simbolos = "0123456789ABCDEF";
